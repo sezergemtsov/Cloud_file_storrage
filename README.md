@@ -18,7 +18,7 @@
 
 Для правильной конфигурации следует проверить свободны ли следующие порты:  
 Фронт использует 8081, бэкэнд использует 8085, база данных использует 8087.  
-Для изменения следует изменить только первое значение в [docker-compose.yaml](https://github.com/sezergemtsov/REST-api-on-docker/blob/master/docker-compose.yaml)  
+Для изменения следует изменить только первое значение в [docker-compose.yaml](https://github.com/sezergemtsov/Cloud_file_storrage/blob/master/docker-compose.yaml)  
 как на изображении ниже: 
-![alt text](https://github.com/sezergemtsov/Templates_SOLID/blob/main/src/main/resources/SOLID.png)
+![alt text](https://github.com/sezergemtsov/Cloud_file_storrage/blob/master/port.png)
  
