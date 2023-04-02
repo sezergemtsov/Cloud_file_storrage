@@ -6,7 +6,7 @@
 Фронтенд для приложения написан не мной, а взят [здесь](https://github.com/netology-code/jd-homeworks/tree/master/diploma/netology-diplom-frontend)  
 Бэкэнд реализован на Java как REST приложения на основе Spring framework.  
 В данном репозитории для упращения установки использован jar файл. Полную информацию о серверной части проекта с подробным описанием можно найти
-[здесь](https://github.com/sezergemtsov/REST-api-on-docker/blob/master/docker-compose.yaml)  
+[здесь](https://github.com/sezergemtsov/Cloud_file_storage_backend.git)  
 
 ### Запуск и настройка
 
